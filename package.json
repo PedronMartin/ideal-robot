@@ -1,0 +1,4 @@
+npm install sass --save-dev
+"scripts": {
+  "build": "sass style.scss style.css"
+}
